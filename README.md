@@ -1,2 +1,2 @@
 # db-connect-script
-Connection Script for Atom
+Secure connection script to a MYSQL Database using MYSQLi

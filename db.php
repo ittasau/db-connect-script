@@ -1,5 +1,4 @@
 <?php
-//Press Tab After Entering Values (DB_HOST IS PRE-SELECTED)
 
 $db['DB_HOST'] = "host"; //host will be server name or localhost
 $db['DB_USER'] = "dbusername"; // dbusername will be the database user name

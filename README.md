@@ -2,7 +2,7 @@
 Secure connection script to a MYSQL Database using MYSQLi
 
 Link to file
-https://github.com/ittasau/db-connect-script/blob/master/db.php
+https://github.com/joshwilsonau/db-connect-script/blob/master/db.php
 
 Please make sure you only change things where its directed or the script wont work.
 
